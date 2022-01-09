@@ -1,0 +1,79 @@
+Here in this First -> To Install The react app we use => npx create-react-app@5 my-app (or) npx create-react-app my-app;
+Here in this Second -> To Install The react routers dom we use => npm install react-router-dom@5 (or) npm install react-router-dom;
+Here in this Third -> To Install The react Infinite Scroll we use => npm i react-infinite-scroll-component ;
+Here in this fourth -> To Install The Loading Bar We use => npm i react-top-loading-bar
+***NOTE:For Any Clarification go to google and type :react routers,react infinite scroll,react top loading
+
+
+News.js: (Changes of Buttons)::here page Number from render() is equal to 90-56=34
+
+constructor(props) {
+    super(props);
+    console.log("Hello i am a constructor from News component");
+    this.state = {
+      articles: [],
+      loading: false,
+      page: 1,
+    };
+    document.title = `${this.capitalizeFirstLetter(
+      this.props.catogory
+    )} - Nishanth News India`;
+  }
+  async updateNews() {
+    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.catogory}&apiKey=2505e110e4e74d55931b543aff870461&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+    this.setState({ loading: true });
+    let data = await fetch(url);
+    let parsedData = await data.json();
+    console.log(parsedData);
+    this.setState({
+      articles: parsedData.articles,
+      totalResults: parsedData.totalResults,
+      loading: false,
+    });
+  }
+  async componentDidMount() {
+    this.updateNews();
+  }
+  handlePrevClick = async () => {
+    this.setState({ page: this.state.page - 1 });
+    this.updateNews();
+  };
+  handleNextClick = async () => {
+    console.log("Next");
+    this.setState({ page: this.state.page + 1 });
+    this.updateNews();
+  };
+  render() {
+    console.log("render");
+    return (
+      <div className="container my-3">
+        <h2 className="text-center" style={{ margin: "9px 0" }}>
+          <b>
+            <i>
+              Nishanth News India - Top Headlines on{" "}
+              {this.capitalizeFirstLetter(this.props.catogory)}
+            </i>
+          </b>
+        </h2>
+        <hr />
+        {/* {this.state.loading && <Spinner />} */}
+
+        
+        <div className="row">
+          {/* {JSON.stringify(this.state.articles)}    */}
+          {!this.state.loading &&
+            this.state.articles.map((element) => {
+              return (
+                <div className="col-md-3" key={element.url}>
+                  <NewsItem
+                    title={element.title ? element.title : ""}
+                    description={element.description ? element.description : ""}
+                    imageUrl={element.urlToImage}
+                    newsUrl={element.url}
+                    author={element.author}
+                    date={element.publishedAt}
+                    source={element.source.name}
+                  />
+                </div>
+              );
+            })}

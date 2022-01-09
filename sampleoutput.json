@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Korn",
+            "title": "The Log4j security flaw could impact the entire internet. Here's what you should know - CNN",
+            "description": null,
+            "url": "https://www.cnn.com/2021/12/15/tech/log4j-vulnerability/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211206090541-03-computer-hacking-stock-super-tease.jpeg",
+            "publishedAt": "2021-12-16T12:28:00Z",
+            "content": "New York (CNN Business)A critical flaw in widely used software has cybersecurity experts raising alarms and bigcompanies racing to fix the issue. \r\nThe vulnerability, which was reported late last wee… [+5049 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Turkish lira slumps to new low after interest rate cut - Reuters",
+            "description": "The Turkish lira plunged as much as 5.6% to a record low against the dollar on Thursday after the central bank slashed its policy rate in line with an unorthodox economic programme set out by President Tayyip Erdogan.",
+            "url": "https://www.reuters.com/markets/currencies/turkish-lira-flat-ahead-cenbank-meeting-2021-12-16/",
+            "urlToImage": "https://www.reuters.com/resizer/_wjVlQ9zOK_sSZz8uUySxZOswsw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UIORSMOWMVPPHEPNL2K6ZULSAU.jpg",
+            "publishedAt": "2021-12-16T12:25:00Z",
+            "content": "ISTANBUL, Dec 16 (Reuters) - The Turkish lira plunged as much as 5.6% to a record low against the dollar on Thursday after the central bank slashed its policy rate in line with an unorthodox economic… [+3002 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "Bank of England announces rate hike from pandemic-era lows - CNBC",
+            "description": "U.K. inflation hit a 10-year high in November as the Consumer Price Index rose by an annual 5.1%.",
+            "url": "https://www.cnbc.com/2021/12/16/bank-of-england-announces-rate-hike-from-pandemic-era-lows.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106878994-1620285398083-gettyimages-1232477469-Vuk_Valcic_Royal_Exchange3.jpeg?v=1620285538",
+            "publishedAt": "2021-12-16T12:01:57Z",
+            "content": "LONDON The Bank of England on Thursday hiked interest rates for the first time since the onset of the pandemic, increasing its main interest rate to 0.25% from its historic low of 0.1% as inflation p… [+3900 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Qantas switches domestic fleet to Airbus in blow to Boeing - Reuters",
+            "description": "Qantas Airways <a href=\"https://www.reuters.com/companies/QAN.AX\" target=\"_blank\">(QAN.AX)</a> on Thursday picked Airbus <a href=\"https://www.reuters.com/companies/AIR.PA\" target=\"_blank\">(AIR.PA)</a> as the preferred supplier to replace its domestic fleet, s…",
+            "url": "https://www.reuters.com/business/aerospace-defense/airbus-wins-order-renew-qantas-fleet-sources-2021-12-15/",
+            "urlToImage": "https://www.reuters.com/resizer/mOOhbkgySm1PVrZNynyF4bNQ3DY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VFW56REJ5BN6XGL5AD24CWWHOA.jpg",
+            "publishedAt": "2021-12-16T11:36:00Z",
+            "content": "SYDNEY, Dec 16 (Reuters) - Qantas Airways (QAN.AX) on Thursday picked Airbus (AIR.PA) as the preferred supplier to replace its domestic fleet, switching from Boeing (BA.N) in a major win for the Euro… [+3657 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Top central banks go their own ways into 2022 - Reuters",
+            "description": "Top central banks will on Thursday unveil policy moves to steer their economies through rising turbulence from the pandemic and high inflation, with some set to keep money cheap into 2022 even as the U.S. Federal Reserve tightens.",
+            "url": "https://www.reuters.com/markets/europe/fed-heads-exits-despite-omicron-who-will-follow-2021-12-16/",
+            "urlToImage": "https://www.reuters.com/resizer/2PugZXYjkc1RTiHRQYxOtgxV3bA=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LXJI6BYXLNNHZNECH5CORBQ43Q.jpg",
+            "publishedAt": "2021-12-16T10:58:00Z",
+            "content": "Dec 16 (Reuters) - Top central banks will on Thursday unveil policy moves to steer their economies through rising turbulence from the pandemic and high inflation, with some set to keep money cheap in… [+4506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Associated Press",
+            "title": "Elizabeth Holmes' dramatic trial set for final face-off - Fox Business",
+            "description": "",
+            "url": "https://www.foxbusiness.com/technology/elizabeth-holmes-dramatic-trial-set-for-final-face-off",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/0/0/holmes-1.jpg?ve=1&tl=1",
+            "publishedAt": "2021-12-16T10:24:35Z",
+            "content": "The trial of fallen Silicon Valley star Elizabeth Holmes moves into its final phase Thursday when federal prosecutors and defense attorneys will present their final arguments to the jury that will de… [+3639 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Frank Holland",
+            "title": "Retailers face rising holiday-return costs due to supply chain issues, a new report says - CNBC",
+            "description": "CNBC received an early look at the annual CBRE-Optoro data, which shows a 7% increase in the cost of all returns, or reverse logistics.",
+            "url": "https://www.cnbc.com/2021/12/16/retailers-face-rising-holiday-return-costs-a-new-cbre-optoro-report-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106977899-1637319775822-gettyimages-1327127856-dsc06498.jpeg?v=1639635430",
+            "publishedAt": "2021-12-16T10:00:01Z",
+            "content": "Free returns are certainly not free for retailers.\r\nIn fact, the cost of processing returns will increase this holiday season, according to logistics forecasts, especially against a backdrop of risin… [+2907 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "Stock futures higher after Fed accelerates stimulus pullback - Fox Business",
+            "description": "U.S. equity futures were trading higher Thursday morning after the Federal Reserve said it would accelerate its pullback of economic stimulus.",
+            "url": "https://www.foxbusiness.com/markets/stock-futures-higher-after-fed-accelerates-stimulus-pullback",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/8815b045-ap16301578658834.jpg?ve=1&tl=1",
+            "publishedAt": "2021-12-16T08:30:18Z",
+            "content": "U.S. equity futures were trading higher Thursday morning after the Federal Reserve said it would accelerate its pullback of economic stimulus.\r\nThe major futures indexes suggested a gain of 0.6% when… [+3380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "Asian stocks extend rally as upbeat Fed stokes risk appetite By Reuters - Investing.com",
+            "description": "Stampede for stocks as central banks act on inflation",
+            "url": "https://www.investing.com/news/economy/asian-stocks-rise-with-bond-yields-as-fed-outcome-boosts-risk-sentiment-2713338",
+            "urlToImage": "https://i-invdn-com.investing.com/news/indicatornews_4_800x533_L_1413112066.jpg",
+            "publishedAt": "2021-12-16T06:40:00Z",
+            "content": "By Marc Jones\r\nLONDON (Reuters) - World stocks marched back towards record highs on Thursday as surging inflation saw Britain and Norway hike interest rates after the U.S. Federal Reserve accelerated… [+4772 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Michael Sainato",
+            "title": "Massachusetts Starbucks workers push to unionize after New York win - The Guardian",
+            "description": "Boston workers at two stores were inspired by Buffalo workers who succeeded in unionizing in at least one branch",
+            "url": "https://amp.theguardian.com/business/2021/dec/16/starbucks-workers-boston-push-unionize",
+            "urlToImage": "https://i.guim.co.uk/img/media/96ed679243bdbfaddb5fdcd167bf146a4a5af60b/0_0_5003_3002/master/5003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce83c065171a36488b2ec60a82646f60",
+            "publishedAt": "2021-12-16T06:02:00Z",
+            "content": "Starbucks workers at two stores in Massachusetts have filed for union elections to join SEIU affiliate Workers United, citing inspiration from the union organizing campaign in Buffalo, New York.\r\nIn … [+4290 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Morgan Sung",
+            "title": "Kraft will pay you to not make cheesecake this holiday season - NBC News",
+            "description": "In light of the national cream cheese shortage, Kraft is offering customers $20 to bring another dessert to holiday gatherings instead of cheesecake.",
+            "url": "https://www.nbcnews.com/news/us-news/kraft-will-pay-not-make-cheesecake-holiday-season-rcna8953",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211215-calif-store-shelf-philadelphia-cream-cheese-2013-ac-808p-1a0397.jpg",
+            "publishedAt": "2021-12-16T04:44:00Z",
+            "content": "In light of the national cream cheese shortage, Kraft is offering customers $20 to bring another dessert to holiday gatherings instead of cheesecake. \r\nSupply chain issues have disrupted United State… [+1678 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Caroline Vakil",
+            "title": "​​CDC advisers to consider limits on J&J vaccine over blood clot issues | TheHill - The Hill",
+            "description": "A panel of advisers for the Centers for Disease Control and ...",
+            "url": "https://thehill.com/policy/healthcare/586067-cdc-to-consider-limits-on-jj-vaccine-because-of-blood-clot-issues",
+            "urlToImage": "https://thehill.com/sites/default/files/johnsonjohnsonvaccine_022421getty.jpg",
+            "publishedAt": "2021-12-16T04:20:53Z",
+            "content": "A panel of advisers for the Centers for Disease Control and Prevention (CDC) will meet on Thursday to consider whether to impose restrictions on the Johnson &amp; Johnson COVID-19 vaccine due to new … [+2088 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Reddit Files for IPO With Undisclosed Valuation, Pending SEC Review - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f79f144d-5e6f-11ec-a232-787877566659&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0xMi0xNi9tZWRpYS1wbGF0Zm9ybS1yZWRkaXQtc2F5cy1pdC1maWxlZC1jb25maWRlbnRpYWxseS1mb3ItdS1zLWlwbw==",
+            "urlToImage": null,
+            "publishedAt": "2021-12-16T04:09:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CryptoGlobe"
+            },
+            "author": "Francisco Memoria",
+            "title": "Dogecoin Whale Transactions Jump 148% After Tesla Announced $DOGE Payments for Merch - CryptoGlobe",
+            "description": "Large transactions of the meme-inspired cryptocurrency Dogecoin ($DOGE) have jumped by 148% shortly after the CEO of electric car maker Tesla, Elon Musk, announced the firm was going to accept DOGE payments for merch. As first reported by Benzinga, data from …",
+            "url": "https://www.cryptoglobe.com/latest/2021/12/dogecoin-whale-transactions-jump-148-after-tesla-announced-doge-payments-for-merch/",
+            "urlToImage": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2021/05/clay-banks-NPlMmVsC40I-unsplash-614x768.jpg",
+            "publishedAt": "2021-12-16T03:23:30Z",
+            "content": "Large transactions of the meme-inspired cryptocurrency Dogecoin ($DOGE) have jumped by 148% shortly after the CEO of electric car maker Tesla, Elon Musk, announced the firm was going to accept DOGE p… [+2152 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. airlines warn 5G wireless could wreak havoc with flights - Reuters",
+            "description": "Major U.S. air carriers warned on Wednesday that plans by wireless carriers to use spectrum for 5G wireless services starting Jan. 5 could disrupt thousands of daily flights and cost air passengers $1.6 billion annually in delays.",
+            "url": "https://www.reuters.com/business/aerospace-defense/us-airlines-warn-5g-wireless-could-cause-havoc-with-flights-2021-12-15/",
+            "urlToImage": "https://www.reuters.com/resizer/QTSgiEL5ln8q4HZXnutJIM0srAo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ATXK6XL2HNMPZDWGIYV72CO57I.jpg",
+            "publishedAt": "2021-12-16T01:59:00Z",
+            "content": "WASHINGTON, Dec 15 (Reuters) - Major U.S. air carriers warned on Wednesday that plans by wireless carriers to use spectrum for 5G wireless services starting Jan. 5 could disrupt thousands of daily fl… [+4154 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mitchell Clark",
+            "title": "This ransomware may have stolen Christmas in cities, states, and companies across the US - The Verge",
+            "description": "UKG, which manages HR software for many massive organizations, has reported that it’s been hit with a ransomware attack, and that it could be weeks before it’s back up and running",
+            "url": "https://www.theverge.com/2021/12/15/22838737/kronos-ukg-ransomware-attack-payroll-tesla-whole-foods-cybercrime",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/N8EhH0rYSwMveMcUwOK-7v_NNz4=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8792129/acastro_170621_1777_0008.jpg",
+            "publishedAt": "2021-12-16T01:58:43Z",
+            "content": "UKGs hosted payroll software could take weeks to be restored to functionality\r\nIllustration by Alex Castro / The Verge\r\nA ransomware attack is disrupting operations at many major companies, and some … [+3372 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Monica Buchanan Pitrelli",
+            "title": "People who work in the travel industry share their best holiday vacation tips - CNBC",
+            "description": "Holiday travel is rarely easy, but industry insiders have tips that can minimize the complications associated with year-end vacations.",
+            "url": "https://www.cnbc.com/2021/12/16/christmas-vacation-trips-from-travel-industry-insiders.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106989408-1639544442854-gettyimages-1287269288-christmasoct235_octanecamera_a.jpeg?v=1639544664",
+            "publishedAt": "2021-12-16T01:50:00Z",
+            "content": "Even without a pandemic, holiday travel isn't for the faint of heart.\r\nMillions are expected to travel this month, with threats of volatile weather and the omicron variant further stressing out peopl… [+6779 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Cramer's lightning round: I prefer crypto over gold as a hedge - CNBC Television",
+            "description": "\"Mad Money\" host Jim Cramer answers callers' stock questions at rapid speed during Wednesday's edition of the lightning round. Sign up and learn more about t...",
+            "url": "https://www.youtube.com/watch?v=fkb2sar2O2c",
+            "urlToImage": "https://i.ytimg.com/vi/fkb2sar2O2c/hqdefault.jpg",
+            "publishedAt": "2021-12-16T01:32:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Thomas Barrabi",
+            "title": "Apple temporarily closing 3 stores amid COVID-19 concerns - Fox Business",
+            "description": "Apple temporarily shuttering three stores as a precautionary measure amid an uptick in COVID-19 cases, the company said.",
+            "url": "https://www.foxbusiness.com/technology/apple-temporarily-closing-3-stores-covid-19-concerns",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/10/0/0/Apple-logo.jpg?ve=1&tl=1",
+            "publishedAt": "2021-12-16T01:29:12Z",
+            "content": "Apple is temporarily shuttering three stores as a precautionary measure amid an uptick in COVID-19 cases, the company said. \r\nAn Apple store at Brickell City Centre in Miami, Florida, is closed throu… [+1608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Apple Delays February 1 Return To Office Deadline Indefinitely: Report - NDTV",
+            "description": "Apple Inc is delaying its return to office plans indefinitely, Bloomberg News reported, while the company said it has temporarily closed three stores in the U.S. and Canada after a rise in COVID-19 cases and exposures among the stores' employees.",
+            "url": "https://www.ndtv.com/world-news/apple-delays-february-1-return-to-office-deadline-indefinitely-report-2653870",
+            "urlToImage": "https://c.ndtvimg.com/2020-10/s59joum8_apple-generic-reuters-650_625x300_30_October_20.jpg",
+            "publishedAt": "2021-12-16T01:13:34Z",
+            "content": "Apple employees were previously set to return to offices on February 1, says report (File)\r\nApple Inc is delaying its return to office plans indefinitely, Bloomberg News reported, while the company s… [+1391 chars]"
+        }
+    ]
+}
